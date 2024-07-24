@@ -1,0 +1,19 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url(pexels-stephan-seeber-1261728.jpg);
+    background-size: cover;
+}
+.container{
+    align-items: center;
+    height: 270px;
+    border-radius: 60px;
+    justify-content: center;
+    margin-top: 20%;
+    border: 2px solid black;
+    box-sizing: content-box;
+    background-color: rgba(255, 255, 255, 0.297);
+}
